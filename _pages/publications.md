@@ -2,12 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: For the complete list of papers, see my [Google scholar](https://scholar.google.com/citations?user=Slhn1M4AAAAJ&hl=en).
+description:
 years: [2022, 2021, 2019]
 nav: true
 nav_order: 2
 ---
-<!-- _pages/publications.md -->
+
+For the complete list of papers, please see my [Google scholar](https://scholar.google.com/citations?user=Slhn1M4AAAAJ&hl=en).
+
 <div class="publications">
 
 {%- for y in page.years %}
