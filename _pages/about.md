@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: la_meva_foto.jpg
+  image: 20200827_192002.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
