@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-You can also check my [Google scholar](https://scholar.google.com/citations?user=Slhn1M4AAAAJ&hl=en).
+You can also check my [Google Scholar profile](https://scholar.google.com/citations?user=Slhn1M4AAAAJ&hl=en).
 
 <div class="publications">
 
