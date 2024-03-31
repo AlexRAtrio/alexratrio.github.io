@@ -5,7 +5,8 @@ permalink: /
 
 profile:
   align: right
-  image: nova_foto_cropped.jpg <!---la_meva_foto.jpg--->
+  <!---image: la_meva_foto.jpg--->
+  image: nova_foto_cropped.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
