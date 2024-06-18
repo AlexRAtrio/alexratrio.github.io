@@ -13,6 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Work on the project involves data gathering, continued pre-training, instruction fine-tuning on relevant downstream tasks, alignment, and retrieval augmented generation. 
 
 Before that, I completed my PhD (“Regularization Techniques for Low-Resource Machine Translation”) in [EPFL](https://www.epfl.ch/education/phd/edee-electrical-engineering/) and [HEIG-VD](https://heig-vd.ch/) (Switzerland) under the supervision of [Andrei Popescu-Belis](http://iict-space.heig-vd.ch/apu/), on Natural Language Processing, and specifically Machine Translation and Language Generation.
 
